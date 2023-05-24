@@ -116,6 +116,17 @@ function App() {
       </table>
       <h2>It is {new Date().toLocaleTimeString()}.</h2>
     </div>
+
+    <input type='text'>
+
+      </input>
+      <input type='date'>
+
+      </input>
+      <input type= 'time'>
+        
+      </input>
+      </>
   );
 }
 
